@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptiCo/static/css/main.9778a32b.css",
+    "main.js": "/CryptiCo/static/js/main.3798b303.js",
+    "static/js/787.43fa636b.chunk.js": "/CryptiCo/static/js/787.43fa636b.chunk.js",
+    "static/media/logo.png": "/CryptiCo/static/media/logo.91200526a5a325dabb5a.png",
+    "index.html": "/CryptiCo/index.html",
+    "main.9778a32b.css.map": "/CryptiCo/static/css/main.9778a32b.css.map",
+    "main.3798b303.js.map": "/CryptiCo/static/js/main.3798b303.js.map",
+    "787.43fa636b.chunk.js.map": "/CryptiCo/static/js/787.43fa636b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9778a32b.css",
+    "static/js/main.3798b303.js"
+  ]
+}
